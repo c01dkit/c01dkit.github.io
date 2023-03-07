@@ -56,8 +56,8 @@ sections:
           icon_pack: fas
         - name: Java
           description: 40%
-          icon: java
-          icon_pack: fas
+          icon: java fa-brands
+          icon_pack: fa
   - block: experience
     content:
       title: Experience
