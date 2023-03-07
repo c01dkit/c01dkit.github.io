@@ -48,3 +48,19 @@ We're an open source movement that depends on your support to stay online and th
 * [Version 5.0 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-february-2021&#x2F;)
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;version-5.0-beta-3-february-2021&#x2F;)
 <!--END_SECTION:news-->
+
+## Deploy
+
+保留内容原文，为hugo生成源，以方便多平台迁移。
+
+迁移方法：
+1. ssh clone本仓库
+2. 下载hugo二进制可执行包 https://github.com/gohugoio/hugo/releases，如 https://github.com/gohugoio/hugo/releases/download/v0.111.1/hugo_extended_0.111.1_Linux-64bit.tar.gz 并解压，将其中的二进制文件拷贝到PATH中，如/usr/local/bin。随后在blog文件夹内运行hugo。注意要下载extended版本的hugo
+3. cd public
+4. git init
+5. git add .
+6. git commit -m "test"
+7. git remote add origin git@github.com:c01dkit/c01dkit.github.io.git
+8. git push --set-upstream origin master:main --force
+
+之后只需在content目录下写文档，然后运行run.sh即可。
