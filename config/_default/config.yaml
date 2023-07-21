@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: c01dkit # Website name
+title: Welcome # Website name
 baseURL: 'https://c01dkit.com/' # Website URL
 
 ############################

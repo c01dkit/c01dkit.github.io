@@ -1,5 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
+# https://github.dev/wowchemy/starter-hugo-academic/tree/main
 title:
 date: 2022-10-24
 type: landing
@@ -35,30 +36,47 @@ sections:
   #       gradient_end: '#1976d2'
   #       gradient_start: '#004ba0'
   #       text_color_light: true
-  - block: about.avatar
+  - block: about.biography
     id: about
     content:
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
+#   - block: features
+#     content:
+#       title: Skills
+#       items:
+#         - name: Python
+#           description: 95%
+#           icon: python
+#           icon_pack: fab
+#         - name: C
+#           description: 90%
+#           icon: c
+#           icon_pack: fas
+#         - name: Java
+#           description: 40%
+#           icon: java fa-brands
+#           icon_pack: fa
+  - block: collection
+    id: publications
     content:
-      title: Skills
-      items:
-        - name: Python
-          description: 95%
-          icon: python
-          icon_pack: fab
-        - name: C
-          description: 90%
-          icon: c
-          icon_pack: fas
-        - name: Java
-          description: 40%
-          icon: java fa-brands
-          icon_pack: fa
+      title: Publications
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -70,14 +88,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Graduate student in Computer Science and Technology
+        - title: Master student in Computer Science and Technology
           company: Zhejiang University
           company_url: 'https://www.zju.edu.cn/english/'
           company_logo: zju
           location: Hangzhou
           date_start: '2022-09-01'
           date_end: ''
-          description: Currently researching on crash root cause analysis.
+          description: Currently researching on fault localization.
           # description: |2-
           #     Responsibilities include:
 
@@ -206,20 +224,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  
   # - block: collection
   #   id: talks
   #   content:
@@ -246,10 +251,10 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 38 Zheda Rd, Hangzhou 310027, P.R. China
+        street: 38 Zheda Rd, Hangzhou 310007, P.R. China
         city: Hangzhou
         # region: CA
-        postcode: '310027'
+        postcode: '310007'
         country: China
         country_code: CN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2

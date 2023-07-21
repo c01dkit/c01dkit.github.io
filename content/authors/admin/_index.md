@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate student in Computer Science and Technology
+role: Master student in Computer Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,22 +26,21 @@ bio: My research interests include binary vulnerablities.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - System Security
+  - Binary Analysis
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    # - course: M.S. in Computer Science and Technology 
+    #   institution: Zhejiang University
+    #   year: 2023
+    - course: B.Eng. in Information Security
+      institution: Zhejiang University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,11 +73,13 @@ social:
   #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'bychang@zju.edu.cn'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Boyu Chang is a master student of Computer Science and Technology at the Network SystEm Security & PrivAcy (NESA) Research Lab. His research interests include binary vulnerablity discovering, IoT firmware analyzing and program analyzing.
-{style="text-align: justify;"}
+I am a master student of Computer Science and Technology at the [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
+
+### Recent News
+* [07/10/2023] Our paper was accepted by IEEE S&P 2024!
