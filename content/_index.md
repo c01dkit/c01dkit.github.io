@@ -251,10 +251,10 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 38 Zheda Rd, Hangzhou 310007, P.R. China
+        street: 38 Zheda Rd
         city: Hangzhou
         # region: CA
-        postcode: '310007'
+        postcode: '310027'
         country: China
         country_code: CN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
