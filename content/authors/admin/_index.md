@@ -81,5 +81,7 @@ highlight_name: false
 
 I am a master student of Computer Science and Technology at the [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
+I&#39;ve published [a collection of top-tier publications](https://sec.c01dkit.com/), which supports **efficient keyword searching**. Hope it benefits your research!
+
 ### Recent News
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!
