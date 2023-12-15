@@ -54,7 +54,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2309.14742.pdf'
+url_pdf: 'https://www.computer.org/csdl/proceedings-article/sp/2024/313000a070/1RjEaG9OpTa'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
