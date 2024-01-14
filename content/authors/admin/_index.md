@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master student in Computer Science and Technology
+role: Ph.D. candidate in Computer Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,9 +35,9 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    # - course: M.S. in Computer Science and Technology 
-    #   institution: Zhejiang University
-    #   year: 2023
+    - course: Ph.D. candidate in Computer Science and Technology 
+      institution: Zhejiang University
+      year: Expected 2027
     - course: B.Eng. in Information Security
       institution: Zhejiang University
       year: 2022
@@ -79,7 +79,7 @@ email: 'bychang@zju.edu.cn'
 highlight_name: false
 ---
 
-I am a master student of Computer Science and Technology at the [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
+I am a Ph.D. candidate of Computer Science and Technology at [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
 I&#39;ve published [a collection of top-tier publications](https://sec.c01dkit.com/), which supports **efficient keyword searching**. Hope it benefits your research!
 

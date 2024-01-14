@@ -88,14 +88,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Ph.D. candidate in Computer Science and Technology
+          company: Zhejiang University
+          company_url: 'https://www.zju.edu.cn/english/'
+          company_logo: zju
+          location: Hangzhou
+          date_start: '2024-03-01'
+          date_end: ''
+          description: Currently researching on fault localization.
         - title: Master student in Computer Science and Technology
           company: Zhejiang University
           company_url: 'https://www.zju.edu.cn/english/'
           company_logo: zju
           location: Hangzhou
           date_start: '2022-09-01'
-          date_end: ''
-          description: Currently researching on fault localization.
+          date_end: '2024-03-01'
+          description: Excellent Graduate Student, Excellent Student Cadre
           # description: |2-
           #     Responsibilities include:
 
