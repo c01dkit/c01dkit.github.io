@@ -8,7 +8,7 @@ if [ $# -eq 1 ]
   then msg="$1"
 fi
 git commit -m "$msg"
-git push origin main:test
+git push -u origin main:test
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo
@@ -17,6 +17,6 @@ git add .
 msg="Automatically update at $d"
 
 git commit -m "$msg"
-git push origin master:main
+git push -u origin master:main
 # git push
 cd ..
