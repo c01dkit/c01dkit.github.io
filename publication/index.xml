@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Welcome</title>
+    <link>https://c01dkit.com/publication/</link>
+      <atom:link href="https://c01dkit.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://c01dkit.com/media/icon_hu5802f19b118f6fc0d57da606d1d26e87_161683_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://c01dkit.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization</title>
+      <link>https://c01dkit.com/publication/chang-2025-oakland/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://c01dkit.com/publication/chang-2025-oakland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices</title>
+      <link>https://c01dkit.com/publication/wang-2024-oakland/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://c01dkit.com/publication/wang-2024-oakland/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
