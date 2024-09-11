@@ -84,4 +84,5 @@ I am a Ph.D. student of Computer Science and Technology at [Network SystEm Secur
 I&#39;ve published [a collection of top-tier publications](https://sec.c01dkit.com/), which supports **efficient keyword searching**. Hope it benefits your research!
 
 ### Recent News
+* [09/11/2024] Our paper was accepted by IEEE S&P 2025!
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!
