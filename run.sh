@@ -1,4 +1,3 @@
-#!/bin/bash
 echo -e "\033[0;32mSynchronizing updates to public resume (private repo)...\033[0m"
 
 git add .
