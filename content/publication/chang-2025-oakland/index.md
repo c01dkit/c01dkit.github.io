@@ -5,7 +5,7 @@ title: 'FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Eff
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Boyu Chang
+  - admin
   - Binbin Zhao
   - Qiao Zhang
   - Peiyu Liu
@@ -48,13 +48,13 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: slides
+  url: uploads/FirmRCA-slides.pdf
 
-url_pdf: 'https://arxiv.org/pdf/2410.18483'
+url_pdf: 'https://www.computer.org/csdl/proceedings-article/sp/2025/223600a002/21B7PVDny6I'
 url_code: 'https://github.com/NESA-Lab/FirmRCA'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://doi.org/10.5281/zenodo.15623399'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''

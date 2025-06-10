@@ -95,7 +95,7 @@ sections:
           location: Hangzhou
           date_start: '2024-03-01'
           date_end: ''
-          description: Currently researching on fault localization.
+          description: Currently researching on fault localization. Award of Honor for Graduate, Outstanding Graduate Leader Award, Graduate with Merit A Performance
         - title: Master student in Computer Science and Technology
           company: Zhejiang University
           company_url: 'https://www.zju.edu.cn/english/'
@@ -103,7 +103,7 @@ sections:
           location: Hangzhou
           date_start: '2022-09-01'
           date_end: '2024-03-01'
-          description: Excellent Graduate Student, Excellent Student Cadre
+          description: Award of Honor for Graduate, Outstanding Graduate Leader Award, Graduate with Merit A Performance
           # description: |2-
           #     Responsibilities include:
 

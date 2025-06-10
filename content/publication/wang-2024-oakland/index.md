@@ -6,7 +6,7 @@ title: 'SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Qinying Wang
-  - Boyu Chang
+  - admin
   - Shouling Ji
   - Yuan Tian
   - Xuhong Zhang
