@@ -16,6 +16,6 @@ git add .
 msg="Automatically update at $d"
 
 git commit -m "$msg"
-git push origin master:main
+git push origin main:main
 # git push
 cd ..
