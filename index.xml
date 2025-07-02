@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome</title>
+    <title>Profile of c01dkit</title>
     <link>https://c01dkit.com/</link>
       <atom:link href="https://c01dkit.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Welcome</description>
+    <description>Profile of c01dkit</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://c01dkit.com/media/icon_hu5802f19b118f6fc0d57da606d1d26e87_161683_512x512_fill_lanczos_center_3.png</url>
-      <title>Welcome</title>
+      <title>Profile of c01dkit</title>
       <link>https://c01dkit.com/</link>
     </image>
     
@@ -232,7 +232,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-924576183&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-634789125&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -242,7 +242,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-924576183&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-634789125&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
