@@ -48,16 +48,16 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: slides
-  url: uploads/FirmRCA-slides.pdf
+# links:
+# - name: Slides
+  # url: 
 
 url_pdf: 'https://www.computer.org/csdl/proceedings-article/sp/2025/223600a002/21B7PVDny6I'
 url_code: 'https://github.com/NESA-Lab/FirmRCA'
 url_dataset: 'https://doi.org/10.5281/zenodo.15623399'
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'uploads/FirmRCA-slides.pdf'
 # url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_video: 'https://youtube.com'
 

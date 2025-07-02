@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Computer Science and Technology
+role: Ph.D. candidate in Computer Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,10 +32,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
-    - course: Ph.D. student in Computer Science and Technology 
+    - course: Ph.D. candidate in Computer Science and Technology 
       institution: Zhejiang University
       year: Expected 2027
     - course: B.Eng. in Information Security
@@ -73,10 +70,10 @@ social:
   #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'bychang@zju.edu.cn'
+email: 'contact@c01dkit.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a Ph.D. student of Computer Science and Technology at [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
