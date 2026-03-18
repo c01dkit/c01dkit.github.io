@@ -76,7 +76,7 @@ email: 'contact@c01dkit.com'
 highlight_name: true
 ---
 
-I am a Ph.D. student of Computer Science and Technology at [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
+I am a Ph.D. candidate of Computer Science and Technology at [Network SystEm Security & PrivAcy (NESA) Research Lab](https://nesa.zju.edu.cn/). I earned my bachelor&#39;s degree in Information Security from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022.
 
 I&#39;ve published [a collection of top-tier publications](https://sec.c01dkit.com/), which supports **efficient keyword searching**. Hope it benefits your research!
 

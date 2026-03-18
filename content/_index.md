@@ -267,7 +267,7 @@ sections:
         country_code: CN
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Response 10:00 to 21:00 CST'
+        - 'Response 9:00 to 22:00 CST'
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
