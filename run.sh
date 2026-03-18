@@ -1,4 +1,4 @@
-echo -e "\033[0;32mSynchronizing updates to public resume (private repo)...\033[0m"
+echo "\033[0;32mSynchronizing updates to public resume (private repo)...\033[0m"
 
 git add .
 d=`date`
@@ -9,7 +9,7 @@ fi
 git commit -m "$msg"
 git push origin editmode:test
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo
 cd public
 git add .
