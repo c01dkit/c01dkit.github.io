@@ -5,7 +5,7 @@
     <link>https://c01dkit.com/publication-type/1/</link>
       <atom:link href="https://c01dkit.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://c01dkit.com/media/icon_hu5802f19b118f6fc0d57da606d1d26e87_161683_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
+      <title>From Capabilities to Compromises: A Systematic Study of Host-Boundary Enforcement in CLI Coding Agents</title>
+      <link>https://c01dkit.com/publication/2026-srds-chen/</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://c01dkit.com/publication/2026-srds-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SyzOrch: An Orchestration Framework for Resource-Aware and Composable Kernel Fuzzing</title>
+      <link>https://c01dkit.com/publication/2025-issre-xu/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://c01dkit.com/publication/2025-issre-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization</title>
-      <link>https://c01dkit.com/publication/chang-2025-oakland/</link>
+      <link>https://c01dkit.com/publication/2025-oakland-chang/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://c01dkit.com/publication/chang-2025-oakland/</guid>
+      <guid>https://c01dkit.com/publication/2025-oakland-chang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SyzTrust: State-aware Fuzzing on Trusted OS Designed for IoT Devices</title>
-      <link>https://c01dkit.com/publication/wang-2024-oakland/</link>
+      <link>https://c01dkit.com/publication/2024-oakland-wang/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://c01dkit.com/publication/wang-2024-oakland/</guid>
+      <guid>https://c01dkit.com/publication/2024-oakland-wang/</guid>
       <description></description>
     </item>
     
