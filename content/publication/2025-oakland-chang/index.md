@@ -14,9 +14,14 @@ authors:
   - Shouling Ji
 
 # Author notes (optional)
-# author_notes:
-#   - 
-#   - 'Equal contribution'
+author_notes:
+  - 
+  -
+  -
+  -
+  -
+  -
+  - Corresponding Author
 
 date: '2024-09-11T00:00:00Z'
 doi: ''
@@ -31,7 +36,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE S&P 2025, **CCF-A**
+publication: 46th IEEE Symposium on Security and Privacy (IEEE S&P) 2025, **CCF-A**
 publication_short: IEEE S&P 2025, **CCF-A**
 
 abstract: 'While fuzzing has demonstrated its effectiveness in exposing vulnerabilities within embedded firmware, the discovery of crashing test cases is only the first step in improving the security of these critical systems. The subsequent fault localization process, which aims to precisely identify the root causes of observed crashes, is a crucial yet time-consuming post-fuzzing work. Unfortunately, the automated root cause analysis on embedded firmware crashes remains an underexplored area, which is challenging from several perspectives: (1) the fuzzing campaign towards the embedded firmware lacks adequate debugging mechanisms, making it hard to automatically extract essential runtime information for analysis; (2) the inherent raw binary nature of embedded firmware often leads to over-tainted and noisy suspicious instructions, which provides limited guidance for analysts in manually investigating the root cause and remediating the underlying vulnerability.
