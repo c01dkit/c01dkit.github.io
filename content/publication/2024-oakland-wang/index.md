@@ -18,12 +18,21 @@ authors:
   - Reheem Beyah
 
 # Author notes (optional)
-# author_notes:
-#   - 
-#   - 'Equal contribution'
+author_notes:
+  - 
+  - 
+  - 'Corresponding Author'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 date: '2023-07-10T00:00:00Z'
-doi: ''
+doi: '10.1109/SP54263.2024.00070'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'

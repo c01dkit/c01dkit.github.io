@@ -28,7 +28,7 @@ authors:
 #   - 'Corresponding Author'
   
 date: '2025-10-21T00:00:00Z'
-doi: 'https://doi.org/10.1109/ISSRE66568.2025.00015'
+doi: '10.1109/ISSRE66568.2025.00015'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'

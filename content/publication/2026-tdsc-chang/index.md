@@ -26,7 +26,7 @@ author_notes:
   - 'Corresponding Author'
   
 date: '2026-07-06T00:00:00Z'
-doi: ''
+doi: '10.1109/TDSC.2026.3712723'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'
@@ -58,7 +58,7 @@ featured: false
   # url: 
 
 # url_pdf: 
-url_code: 'https://github.com/xb-Bogger/FirmLocator'
+url_code: 'https://github.com/NESA-Lab/FirmLocator'
 url_dataset: 'https://doi.org/10.5281/zenodo.18463411'
 # url_poster: ''
 # url_project: ''
